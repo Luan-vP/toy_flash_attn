@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "toy_flash_attn"
+  site-url: "https://Luan-vP.github.io/toy_flash_attn"
+  description: "Demonstration implementation of FlashAttention using nbdev."
+  repo-branch: main
+  repo-url: "https://github.com/Luan-vP/toy_flash_attn"
